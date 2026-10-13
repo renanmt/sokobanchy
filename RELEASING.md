@@ -52,15 +52,17 @@ Inspect the draft's files, source/notice completeness, and README images before 
 
 ## Marketplace submission draft
 
-Follow the [official publishing guide](https://plugins.omarchy.org/publish.html) and its submission form. Marketplace maintainers review submissions. The repository must be public and include the root manifest, README, license, and safe install/removal behavior. See the [plugin reference](https://github.com/omacom/omarchy/blob/quattro/manual/32-shell-plugins.md).
+Follow the [official publishing guide](https://plugins.omarchy.org/publish.html) and its [submission form](https://github.com/omacom/omarchy-plugin-marketplace/issues/new?template=submit-plugin.yml). Marketplace maintainers review submissions. The repository must be public and include the root manifest, README, license, and safe install/removal behavior. See the [plugin reference](https://github.com/omacom/omarchy/blob/quattro/manual/32-shell-plugins.md).
 
 - **Name:** Sokobanchy
 - **Repository:** https://github.com/renanmt/sokobanchy
 - **Author:** Renan
-- **Category:** Games
-- **Tags:** sokoban, puzzle, rust, theme-aware
+- **Category:** Other
+- **Tags:** Games, Bar, Launcher
 - **Preview:** root `preview.png`
 - **Summary:** A quiet game of push & possibility. A native Sokoban game with a 35-puzzle campaign, eight credited community collections, keyboard controls, and live Omarchy colors.
+
+The marketplace form has no Games category; use Other with the Games, Bar, and Launcher tags. The widget's own bar category remains Games.
 
 **Description:** Guide an AI agent and push code libraries onto placeholders. Undo and redo freely, browse puzzles beside the board, open your own collections, and resume saved games with best scores. Help, About, credits, and reset-all confirmation stay in the main body. Single-puzzle restart uses a centered floating Yes/No dialog with Y/N shortcuts. A persistent bottom bar shows keyboard shortcuts.
 
