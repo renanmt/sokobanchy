@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Sokobanchy
+Comment=A quiet game of push and possibility
+Exec=sokobanchy
+Icon=sokobanchy
+Terminal=false
+Categories=Game;LogicGame;
+Keywords=sokoban;puzzle;omarchy;crates;
+StartupWMClass=sokobanchy

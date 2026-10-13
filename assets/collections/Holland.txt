@@ -1,0 +1,1995 @@
+Date Created: 2001-11-13  19:30:29
+Date of Last Change: 2024-09-26  13:59:17
+
+Author: David Holland
+Copyright: David Holland <dholland@dholland.karoo.co.uk>
+Collection: Holland
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's notes:
+
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+
+David Holland, "Spade"
+
+
+Author: David Holland
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Ninevah"
+
+
+Author: David Holland + sokgen
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "CrissCross"
+
+
+Author: David Holland + sokgen
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Carousel"
+
+
+Author: David Holland
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Pattern-oster"
+
+
+Author: David Holland
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Saturnine"
+
+
+Author: David Holland
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Briefcase Alt 23"
+
+
+Author: David Holland + sokgen
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Salamandar v3"
+
+
+Author: David Holland
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Abstract"
+
+
+Author: David Holland
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Storm (in a teacup) v6"
+
+
+Author: David Holland
+The dh1 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh1 Sokoban levels by David Holland.
+Original release date: October 2000
+
+I have experimented with computer-generation for several of the smaller puzzles hence the "co-authorship" with sokgen (a computer program of mine). If you like the puzzles email me and if you have stylistic criticisms direct them to sokgen :-)
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Egg"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is
+copyright David Holland
+<dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Square Version 3"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Clover Version 4"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Prefab #5"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Figure Eight"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Skewsymmetric Pattern #6"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Butterfly #3"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Crossed Swords Version 10"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Interlocked Goals"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Meshed Squares"
+
+
+Author: David Holland
+The dh2 collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The dh2 Sokoban levels by David Holland.
+Original release date: June 2001.
+
+There are no computer-generated levels as I am trying to evolve a puzzle-making style, and so experimenting with as many different forms as possible. Some of the puzzles are very, or slightly, symmetrical as a stylistic device (in this I am influenced by David W. Skinner's excellent Sasquatch puzzle sets at his Sokoban page). Others are completely unsymmetrical and the style is in the variations alone.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #1"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #2"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #3"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #4"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #5"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #6"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #7"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #8"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #9"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+Aymeric du Peloux, "Maelstrom Collection #9 variant"
+
+
+Author: Aymeric du Peloux<aymeric.dupeloux@smile.fr>
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #10"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #11"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #12"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #13"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #14"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #15"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #16"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #17"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #18"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #19"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Maelstrom Collection #20"
+
+
+Author: David Holland
+The maelstrom collection of Sokoban positions is copyright David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The maelstrom Sokoban levels by David Holland.
+
+The word Maelstrom means a powerful whirlpool, named after one off the coast of Norway.
+
+The collection ranges from the pretty small (5 objects, 8x9 squares) through the mid-sized (13 objects, 15x11 squares) right up to the large (one puzzle with 57 objects 23x24 squares). Just browse for the kind of challenge you like. The puzzles are in rough order of difficulty. I designed the maze layout and goals for all the puzzles, and many but not all of the small puzzles use computer-generated start positions. A few of the puzzles feature unexpected twists within lengthy solutions and require substantial imagination, and the others I hope are at least interesting. A fully-featured Sokoban player (with drag and drop movement of objects, mouse movement of the man, ability to keep your place if you quit and return to the puzzle another time) is strongly recommended for the medium to larger puzzles, though not strictly necessary.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Small2"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Two Piece 7"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Four Block 1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Small Cross9"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Bowtie 3"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Teapot 3"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Boxin 10"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Slinky 5"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Fizzgig 1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Diode 1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Line 7"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Handsaw 1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Raygun 1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Seesaw 8"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Tree 12"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Torch 1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Cross 7"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Moebius 1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Fork 7"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Shuffle 2"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The bagatelle Sokoban levels by David Holland.
+Original release date: October 2001
+
+Bagatelle is a French word for a trinket, from the Italian for a conjuror's trick. The collection contains fairly simple puzzles (of less difficulty than my previous collection maelstrom) of various sizes. Some of the small puzzles are easier versions of puzzles in my other collections. Others are my take on some classical Sokoban themes (goals in a line, in a cross shape, objects outside goal room for tricky start and finish). The problems posed by each puzzle are of a fairly straightforward kind, but are nevertheless quite varied. The puzzles are in roughly ascending order of difficulty.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Loom1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Pinwheel3"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Fretsaw1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Canine4"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Notchwheel1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Quarkspin3"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Osmosis1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Catkins5"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Splittee1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Flagon1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Shuffle1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Bigt2"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Gyroscope2"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Moebius2"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Boomerang5"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Clasp1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Heart4"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Cossack2"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Space Invader1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Bola1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+Author's note:
+The cantrip Sokoban levels by David Holland.
+Original release date: September 2001.
+
+The puzzles are all small (between 6 and 9 goals and pretty cramped), with maze and walls designed by me and computer-generated start positions. Because of the computer involvement, the start positions of the puzzles may look abstract or random. The meat of the puzzles is in the variations, the unexpected twists, and the underlying problems. The human element of design is most evident in the solved position, by construction, and I like to think of the solving process as producing order from chaos. This collection is meant for experienced solvers, or at least determined ones, as it contains probably my toughest puzzles so far. As usual I have tried to put the puzzles in rough ascending order of difficulty, but here this is even more approximate than usual as I find the puzzles difficult to compare. The puzzles have been extensively play-tested. On a good day I can actually solve them...
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Heart1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Holster7"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Spin6"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Jellyfish2"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Doodle8"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Midblock7"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Squarespiral9"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Pinball15"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Ukasar4"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Boxclever14"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Eightfold21"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Wye11"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The bagatelle2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Triplet2"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Face1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Aitch11"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Engine1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Eightpin14"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Area52"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Trident4"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Crosstwist27"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Meshcross1"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Rugby15"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Hinge10"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Anaconda15"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+David Holland, "Footy6"
+
+
+Author: David Holland
+These levels are © David Holland <dholland@dholland.karoo.co.uk>
+These levels may be distributed freely as long as this copyright message is retained.
+
+The cantrip2 Sokoban levels by David Holland.
+Original release date: July 2002.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #01", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #02", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #03", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #04", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #05", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #06", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #07", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #08", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #09", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #10", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #11", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #12", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #13", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #14", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #15", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #16", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #17", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #18", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #19", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)
+
+
+"dh5 #20", by David Holland
+
+
+Author: David Holland
+Email: dholland@dholland.karoo.co.uk
+
+These levels are copyright (c) by David Holland and may be freely distributed provided they are credited with the author's name.
+
+Author's note:
+dh5 (20 puzzles, released May, 2010)
+This is my fifth collection. The levels are hand-made with solutions originally found by hand. They have varying difficulty and are in no particular order.
+
+Solution/Moves (Built-in)

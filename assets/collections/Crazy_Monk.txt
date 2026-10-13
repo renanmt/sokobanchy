@@ -1,0 +1,510 @@
+Date Created: 2009-01-23  22:56:00
+Date of Last Change: 2024-09-26  13:57:39
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Collection : Crazy Monk
+
+
+Just for Fun
+
+
+Author : Jean-Pierre Martel
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Solution/Moves (Built-in)
+
+
+Goal Conquest
+
+
+Author : Matthias Meger (remodelling)
+Comment :  1 wall moved, 1 wall removed, 1 goal moved, 2 goals added
+
+Solution/Moves (Built-in)
+
+
+Criss-Cross
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+The Key
+
+
+Author : Matthias Meger (remodelling)
+Comment : 2 walls moved, 3 goals added
+
+Solution/Moves (Built-in)
+
+
+Triple Lock
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Candy Sugar
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Fallback
+
+
+Author : Matthias Meger (remodelling)
+Comment : 2 walls moved, 1 wall added, 2 goals moved, 1 goal added
+
+Solution/Moves (Built-in)
+
+
+Ali Baba's Cave
+
+
+Author : Jean-Pierre Martel
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Solution/Moves (Built-in)
+
+
+Fake Doors
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Eye of the Storm
+
+
+Author : Matthias Meger (remodelling)
+Comment : 3 walls added, 3 goals added
+
+Solution/Moves (Built-in)
+
+
+Home, Sweet Home
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Concentration
+
+
+Author : Matthias Meger (remodelling)
+Comment : 3 goals added
+
+Solution/Moves (Built-in)
+
+
+Castle, Sweet Castle
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Private Yard
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Wandering
+
+
+Author : Jean-Pierre Martel
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Solution/Moves (Built-in)
+
+
+Ordered Chaos
+
+
+Author : Matthias Meger (remodelling)
+Comment : 1 wall added, 1 goal moved, 2 goals added
+
+Solution/Moves (Built-in)
+
+
+X-File
+
+
+Authors : J-P Martel and Matthias Meger
+
+Solution/Moves (Built-in)
+
+
+Backdoor
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Bubbles in a Bottle
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+The Octopus' Hole
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Cheops
+
+
+Author : Matthias Meger (remodelling)
+Comment : 1 wall moved, 2 walls removed, 3 goals added
+
+Solution/Moves (Built-in)
+
+
+Pythagoras' Hobby
+
+
+Author : Jean-Pierre Martel
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Solution/Moves (Built-in)
+
+
+Pythagoras' Quest
+
+
+Author : Matthias Meger (remodelling)
+Comment : 3 walls moved, 2 goals moved, 1 goal added
+
+Solution/Moves (Built-in)
+
+
+Another Brick in the Wall
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+The Spine
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+The Blockade
+
+
+Author : Matthias Meger (remodelling)
+Comment : 2 walls moved, 1 goal moved
+
+Solution/Moves (Built-in)
+
+
+Back to Tradition
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Narrow Passage
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Ant-Hill
+
+
+Author : Matthias Meger (remodelling)
+Comment : 3 walls moved, 3 goals moved
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Solution/Moves (Built-in)
+
+
+Zen Garden
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Kare-San-Sui
+
+
+Author : Matthias Meger (remodelling)
+Comment : 2 walls moved, 1 wall removed, 3 goals added
+
+Solution/Moves (Built-in)
+
+
+The Teotihuacan Equation
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Optimizer's Challenge
+
+
+Authors : J-P Martel and Matthias Meger
+Comment : 2 walls moved, 1 wall added, 1 goal moved, 2 goals added
+
+Solution/Moves (Built-in)
+
+
+Options Palace's Contest
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Vertical Warehouse
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Run, Chicken!
+
+
+Author : Jean-Pierre Martel
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Solution/Moves (Built-in)
+
+
+Discharge
+
+
+Author : Matthias Meger (remodelling)
+Comment : 2 walls added, 3 goals added
+
+Solution/Moves (Built-in)
+
+
+Scrabbleban
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Crazy Temple
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Senate and Parliament
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Tough Rider
+
+
+Author : Matthias Meger (remodelling)
+Comment : 2 walls moved, 1 wall added, 1 goal moved, 2 goals added
+
+Solution/Moves (Built-in)
+
+
+The Galley
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+On-Site Parking
+
+
+Author : Matthias Meger (remodelling)
+Comment : 2 walls moved, 1 wall removed, 3 goals added
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Solution/Moves (Built-in)
+
+
+Excalibur
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Random Warrior
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+What a Mess!
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Storeman's Work
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Storeman's Tricky Work
+
+
+Author : Matthias Meger (remodelling)
+Comment : 1 wall added
+
+Solution/Moves (Built-in)
+
+
+Kheops' Tomb
+
+
+Author : Jean-Pierre Martel
+
+Solution/Moves (Built-in)
+
+
+Mental Connection
+
+
+Authors : J-P Martel and Matthias Meger
+
+Crazy Monk is Copyright (c) 2008 by Jean-Pierre MARTEL and Matthias MEGER.
+These levels may be freely distributed provided they remain credited with this copyright and all commentaries.
+
+Note :
+The Disciple levels range from easy to moderately difficult. They have been designed for Sokoban players who enjoy "optimizing" solutions.
+Some levels present an arranged version designed by Matthias Meger (codified changes). Those remodels are more difficult than the initial mazes.
+
+Send comments and best solutions to :
+sokomonk@laposte.net
+
+Solution/Moves (Built-in)

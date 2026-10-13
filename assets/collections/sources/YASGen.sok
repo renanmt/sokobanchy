@@ -1,0 +1,336 @@
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::         Sokoban (c) by Falcon Co., Ltd., Japan         ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::                    File Format 0.20                    ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::                                                        ::
+:: File Notes                                  Optional   ::
+:: Puzzle 1                                    Required   ::
+::    Title                                    Optional*  ::
+::    Board                                    See legend ::
+::    Puzzle Notes                             Optional   ::
+::    Saved Game or Solution 1                 Optional   ::
+::      Title                                  Optional*  ::
+::      Moves                                  See legend ::
+::      Notes                                  Optional   ::
+::    Saved Game or Solution 2                 Optional   ::
+::    ... (more saved games and solutions)                ::
+:: Puzzle 2                                    Optional   ::
+:: ... (more puzzles)                                     ::
+::                                                        ::
+:: Remarks:                                               ::
+::                                                        ::
+:: File Notes                                             ::
+::   File notes consist of unstructured text and          ::
+::   key/value properties, such as "Author: Name".        ::
+::                                                        ::
+::   Lines beginning with "::" are comments intended only ::
+::   for someone examining the file in a text editor and  ::
+::   should not be displayed by the Sokoban program.      ::
+::                                                        ::
+::   The optional but recommended property                ::
+::   "Collection: Name" assigns a name to the puzzle      ::
+::   collection. This helps to preserve the collection's  ::
+::   name when copied from a source, such as the          ::
+::   internet, and pasted into a Sokoban program.         ::
+::                                                        ::
+:: Titles                                                 ::
+::   A title line is the last non-blank text line before  ::
+::   a board, saved game, or solution, provided the line  ::
+::   is either preceded by a blank line or is the only    ::
+::   text line in that position in the file.              ::
+::                                                        ::
+::   Title lines are optional unless a single or last     ::
+::   text line from a preceding puzzle, saved game,       ::
+::   solution, or file notes can be mistaken for a title  ::
+::   line.                                                ::
+::                                                        ::
+:: Puzzle Notes                                           ::
+::   Two special key/value pairs are supported in puzzle  ::
+::   notes: "Title" and "Author", hence, titles can be    ::
+::   specified either in a title line or as a key/value   ::
+::   pair.                                                ::
+::                                                        ::
+::::::::::::::::::::::::::: Board ::::::::::::::::::::::::::
+:: Legend.................:      :.................Legend ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:: Wall...................: #  # :...................Wall ::
+:: Pusher.................: p  @ :.................Pusher ::
+:: Pusher on goal square..: P  + :..Pusher on goal square ::
+:: Box....................: b  $ :....................Box ::
+:: Box on goal square.....: B  * :.....Box on goal square ::
+:: Goal square............: .  . :............Goal square ::
+:: Floor..................:      :..................Floor ::
+:: Floor..................: -    :..................Floor ::
+:: Floor..................: _    :..................Floor ::
+::                                                        ::
+:: Remarks:                                               ::
+::                                                        ::
+::   The first and last non-empty square in each row must ::
+::   be a wall or a box on a goal. An empty interior row  ::
+::   must be written with at least one "-" or "_".        ::
+::                                                        ::
+::::::::::::::::::::::::::: Moves ::::::::::::::::::::::::::
+:: Legend.................:      :.................Legend ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:: Move pusher up.........: u  U :.......Push/pull box up ::
+:: Move pusher down.......: d  D :.....Push/pull box down ::
+:: Move pusher left.......: l  L :.....Push/pull box left ::
+:: Move pusher right......: r  R :....Push/pull box right ::
+:: Begin jump.............: [  ] :...............End jump ::
+:: Begin pusher change....: {  } :......End pusher change ::
+:: Current position.......: *  * :.......Current position ::
+::                                                        ::
+:: Remarks:                                               ::
+::                                                        ::
+::   Jumps and pulls appear only in reverse mode saved    ::
+::   games and solutions. Jumps are used to move the      ::
+::   pusher to the desired location before the reverse    ::
+::   mode game begins.                                    ::
+::                                                        ::
+::   Reverse mode saved games and solutions must start    ::
+::   with a jump, even if it is empty, e.g., "[]Urrd".    ::
+::                                                        ::
+::   Pusher changes apply only to puzzles with multiple   ::
+::   pushers, such as Multiban. Moves inside the braces   ::
+::   indicate the relative movement needed to switch from ::
+::   the currently active pusher to the next active       ::
+::   pusher. At the start of a game, a "{...}" sequence   ::
+::   activates the pusher relative to the top-left        ::
+::   pusher. For example: "{rddd}Urr{uul}uLU". If the     ::
+::   top-left pusher is the first active pusher, the      ::
+::   empty "{}" can be omitted.                           ::
+::                                                        ::
+::   The current position marker is optional and defaults ::
+::   to the position after the last move.                 ::
+::                                                        ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Date Created: 2003-01-15 22:01:00
+Date of Last Change: 2025-11-01  10:12:41
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+The YASGen Collection
+Author: Brian Damgaard
+Copyright: Copyright (c) 2003 Brian Damgaard
+Collection: YASGen
+These levels may be freely distributed provided they are credited with the author's name.
+
+
+"YASGen 1", by Brian Damgaard
+
+#########
+#  # ...#
+#  $$#..#
+#  $  *.#
+##   $$$#
+#     #@#
+#########
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Moves (Built-in)
+UULuullDDuurrddLruulldLDlddrUdrrULdlluuluurDDurrDLruurrddLddllURUrruul
+lDlDRlulldRurrdddllUUluRdddrruuLruurrddLLddrUluuurrddrdLuuurDlullddRld
+drUrUUruLdddlluRdrUUddrUUddlldllluURRRRdrUdlldllUluRRRdrUllllluurDldRR
+RRRlluLdlluurDldRRRR
+
+
+"YASGen 2", by Brian Damgaard
+
+ ########
+##@$ .. #
+# $#$ *.#
+#  $  *.#
+# $  #.$#
+##  # . #
+ #      #
+ ########
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+DlddRluurDDuRRdLuluuRRDrRDrDuluurDlllullddrdrUlluurrRdrdLLLrruulDrrruL
+ddlLdlddrrruUrULuurDlllulldlddRluurDRluurrRdrddddllluUrULdddrrruuuulul
+lldlddRluururrrdrruLLrdddddllluUruRldlddrrruuUlldllluurDRRRuurrdLDDrUl
+lldlddrrrrUUluuulLDurrdddrddlllluuulldRurRuurrdddrddlllluUruRluurrdDll
+dlluuuRRRlllddRRRldlddlUUluRRdrUUdlluurRdR
+
+
+"YASGen 3", by Brian Damgaard
+
+#########
+#   . $ #
+# $ ***@#
+##   .$ #
+#####. ##
+#    *  #
+#  $ .  #
+#########
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+uLLDDlluulldRdrrruurrddLddLdlLulldRRRRuLLrrruuruullLLDRdRDrdLuuluurDll
+lluRRdrrurrdLDuLLdRdddlluRdrUrrdLLuUUluRurrddLDlUrruulDDlluLulldRdRluu
+rRRldLrRdrruLLddddrruLdlUlldRRurUUlDuuullddRluurrdDrruuLLddlluRlulldRR
+drrrddLUddlluRdrUrrdLulldllluRRR
+
+
+"YASGen 4", by Brian Damgaard
+
+ ########
+##      #
+#@$ $*  #
+##$$ * ##
+# $...###
+# # *$  #
+#  ...  #
+#########
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+RurrDRDululldRDRdDlUddlluuRURldlddrruruLuuurrdLDururrdLdLruulldRlullDR
+dddrRUULDlddlluuRURuurrDLDururrdLdLruulldRddddLLuURlddrruLulllddRRUruU
+ruulllDDRRddlUddlluuRuRDluuurDurrdLDururrdLdLruulldRlulldRlddrUdDrrUUL
+DlluuurrDDrdLuuurDurrdLdLruulldDuRddddrruLdlUUUluurDDDDuuuurrdLulDDluu
+lldRRlldRR
+
+
+"YASGen 5", by Brian Damgaard
+
+  #######
+  # . $@#
+ ## .$$##
+ # $.$ ##
+##...#  #
+#  $.$$ #
+#  $..  #
+#########
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+LDLLddddrrruulDLdlLUlldRRuRuuurrDDrddLULLuuurrdDrdLuuulldRlddLdlluRuuR
+RddLruulldRddlUruuruulDDrurrDDrddlULLLdlluRRRUUlDrdLuuuurDDurruLrddDrd
+dlUUULulldddrRlluuurrdLulDrrrdrddlUllldlluRRRUUllDRddlUruurrrDrddlULLL
+uurrrDrdLuuluurDDllluRdldddlluRdrUrUUllDRddlUruurrruulDrdDrddlULLLdllu
+RdrUrrrUULuurDDDrdLL
+
+
+"YASGen 6", by Brian Damgaard
+
+#########
+#  #....#
+#   @#**#
+# $$# ..#
+##  $$ *#
+ #$ $   #
+ #      #
+ ########
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+lDDlUrururrDDlDLrurrDLddllURdlllURUUlluurDldRDrddrruLrdrrULLruulDrddll
+llUUrRRurDllllddrrrUdllluuUluurDDDrrRuruulldLDlluurDldRurrurrddldddlll
+UURRllUluurDrrurrddlDlllUdrrrurrDLuuurDlulldlDldddrrrrUUUUruLLrdddddll
+URdrUUUUruLddlDrddlluRdrUUUUddrUUddlddlllluRRRdrUUUdddrUUUddllllluurDR
+RllldRRRRdrUUdlUlllluluurDldRurDldRRRR
+
+
+"YASGen 7", by Brian Damgaard
+
+   ######
+ ### ...#
+ # $ #+.#
+ #  $$**#
+## $ $ .#
+# $ #   #
+#     ###
+#######
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+DDLddlluUddrruuLURdddlllluRuuRldddrrruulLulDrrrddllUdrruurrdLullLddrrU
+dlluurRddlllluRdrrruullulDrrruLrdddllUdlluRuRRllddrrrurruULuullDDuurrd
+drddlldllluuuuRlddrUrRDLulldddrrrUrruuLDuLLdRddllluuuRldddrrruulLulDrr
+rddllUdrruuurrddLruulldlLuRdlddrrUrruuluullDDlluRddddrrurruulLLrruullD
+lDururrddrddlUUlLuurrrDulllddrrUruLdddrUUdlllulldRRRRdrUddllUddlluURRd
+dlllluRdrUdrrurUUUddlluRRllulldRRRlllDRRRRUddldlllluRdrUUluRRR
+
+
+"YASGen 8", by Brian Damgaard
+
+#######
+#.... #
+#*.## ###
+#.* #   #
+# $ $$  #
+# $$  $ #
+#@ #    #
+#########
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+uuRUdlddrURRdrrULrruulDulDuuullllDDrrDRRurrdddllUUUrrdLulDllullDRRRRur
+rdddlllUdrrruuulldLddrUdrruLUddlluRluLulldRdRRuLrddrrruulLrrddlUdlluRl
+luulluurrrrDDDLdlldlUUUrrDullddrUrrruuullllDDDrrrddrrruuuLrdddllluurUr
+rdLrddlULrruullDlllluuurrrrDDrrdddlllURdrruuulluulllldddrdRluluuurrrrd
+dDLLuLUluRRlddrddlUUUluRddrdrrurrdLLLLdlUUUddlUUrddddlUUUrrdrrrrddlUru
+LLLLdlUUrdrrrddlUruLLLrrdLLLUddlUU
+
+
+"YASGen 9", by Brian Damgaard
+
+  ########
+  # *    #
+### *.$  #
+#   **$  #
+#  $.*@###
+###  .##
+  #####
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+LURlLLuuRDuRRDLdddllUURDldRurrULuullDRlDRddlUUruurrDLulDrrrruLLdllDldd
+rUrUdlluRuulDrRRuLdlddrrULuurDllluRdrddllUdrruulDldlluRRRuulDrrruLdldL
+ddrUrrUdllluurrDullddrUrrdLuuurrrddLLrruullldDlldlluRRRRuurrrddlLLuurr
+DLrrdLL
+
+
+"YASGen 10", by Brian Damgaard
+
+#########
+#  ##   #
+#. $@$  #
+#.*.$# ##
+#*.* #$ #
+#.#   $ #
+#. # $$ #
+#.      #
+#########
+
+Author: YASGen & Brian Damgaard
+These levels may be freely distributed provided they are credited with the author's name.
+
+Solution/Pushes (Built-in)
+DDDlUlUlDrrruLdllDDrdrrUUddrrruuLUrdddlULrruulDrdLdlllluluurruruRurrdL
+DDrdddllllluluurruruRurDlldldlluRluurDRRlllddrrUdlluurDrruLrRurrdLLLdl
+lldddrdrrrrruuulUdrddlUUdddlllluluuurrddrRlluurDldRluulldRluuurDDrruLr
+rurrdLLLdllldddrdrrrrruuulUdrddlUUdddlllluluuurrrddRluullluurDldRldddr
+drrrrruuulDlluuuLrdddrrrddllllluluuuuurDrrrurrdLLLLLulDDDDuuurrrdddrru
+UddlluuururrdLLLLLulDDDuurrrrrddrdddlUUUUddlluuururrdLLLLLulDDurrrrrdd
+dddllUUUUddrruuulLLLulDrrrrrddddLdlUUUUddrruuulLLL

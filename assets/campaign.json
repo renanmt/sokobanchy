@@ -1,0 +1,655 @@
+{
+  "name": "The night shift",
+  "description": "Thirty-five original puzzles combined from both collections, with duplicate boards removed. Ordered by proven minimum pushes, then required pushes beyond the independent crate-to-goal lower bound; ties retain their source order.",
+  "levels": [
+    {
+      "name": "First push",
+      "rows": [
+        "#######",
+        "#     #",
+        "# @$. #",
+        "#     #",
+        "#######"
+      ],
+      "solution": "R",
+      "pushes": 1,
+      "lower_bound": 1,
+      "overhead": 0,
+      "provenance": "Original introductory puzzle",
+      "chapter": "Getting settled"
+    },
+    {
+      "name": "Room to turn",
+      "rows": [
+        "#######",
+        "#  .  #",
+        "#  $  #",
+        "# @   #",
+        "#     #",
+        "#######"
+      ],
+      "solution": "rU",
+      "pushes": 1,
+      "lower_bound": 1,
+      "overhead": 0,
+      "provenance": "Original introductory puzzle",
+      "chapter": "Getting settled"
+    },
+    {
+      "name": "Two deliveries",
+      "rows": [
+        "########",
+        "#      #",
+        "# .  . #",
+        "# $  $ #",
+        "# @    #",
+        "#      #",
+        "########"
+      ],
+      "solution": "UdrrrU",
+      "pushes": 2,
+      "lower_bound": 2,
+      "overhead": 0,
+      "provenance": "Original introductory puzzle",
+      "chapter": "Getting settled"
+    },
+    {
+      "rows": [
+        "########",
+        "#    ###",
+        "#    @ #",
+        "#    . #",
+        "## #$# #",
+        "#  . $ #",
+        "## $.* #",
+        "########"
+      ],
+      "pushes": 5,
+      "lower_bound": 5,
+      "overhead": 0,
+      "solution": "dlllddrrUdlluurRurrdddLLuulldddR",
+      "name": "Stockroom",
+      "provenance": "Original campaign lab: candidates-walk, candidate 258",
+      "chapter": "Getting settled"
+    },
+    {
+      "name": "Night shift",
+      "rows": [
+        "#######",
+        "# . $ #",
+        "# .   #",
+        "#  #  #",
+        "# ##$ #",
+        "#   @ #",
+        "#######"
+      ],
+      "solution": "ruuuuLLdrdrddlUUruLL",
+      "pushes": 6,
+      "lower_bound": 6,
+      "overhead": 0,
+      "provenance": "Original first collection: Night shift",
+      "chapter": "Getting settled"
+    },
+    {
+      "rows": [
+        "########",
+        "#  .   #",
+        "# $ $. #",
+        "# $  # #",
+        "#  ##  #",
+        "#   .@ #",
+        "##     #",
+        "########"
+      ],
+      "pushes": 7,
+      "lower_bound": 7,
+      "overhead": 0,
+      "solution": "llluluuRDrURdllDldRR",
+      "name": "Side entrance",
+      "provenance": "Original campaign lab: candidates-walk, candidate 242",
+      "chapter": "Finding your feet"
+    },
+    {
+      "name": "Quiet courtyard",
+      "rows": [
+        "#######",
+        "#     #",
+        "# $   #",
+        "#@$   #",
+        "#  #. #",
+        "#  .  #",
+        "#######"
+      ],
+      "solution": "uRurDlDRurDllDldR",
+      "pushes": 7,
+      "lower_bound": 7,
+      "overhead": 0,
+      "provenance": "Original first collection: Quiet courtyard",
+      "chapter": "Finding your feet"
+    },
+    {
+      "name": "Side streets",
+      "rows": [
+        "#######",
+        "# @   #",
+        "#$# $ #",
+        "#  #  #",
+        "#.    #",
+        "#.    #",
+        "#######"
+      ],
+      "solution": "lDurrrDullldDuurrdrDuulllddDrdrrruLLL",
+      "pushes": 8,
+      "lower_bound": 8,
+      "overhead": 0,
+      "provenance": "Original first collection: Side streets",
+      "chapter": "Finding your feet"
+    },
+    {
+      "name": "The workshop",
+      "rows": [
+        "#######",
+        "#    @#",
+        "#   $ #",
+        "# # # #",
+        "#.    #",
+        "#.  $ #",
+        "#######"
+      ],
+      "solution": "dLulDDurrddlLLrrrdLLL",
+      "pushes": 8,
+      "lower_bound": 8,
+      "overhead": 0,
+      "provenance": "Original first collection: The workshop",
+      "chapter": "Finding your feet"
+    },
+    {
+      "name": "Small detour",
+      "rows": [
+        "########",
+        "#   .  #",
+        "# .   .#",
+        "#  # # #",
+        "#  $$#$#",
+        "#   @  #",
+        "########"
+      ],
+      "solution": "UUUddLdlUUddrrrrUU",
+      "pushes": 8,
+      "lower_bound": 8,
+      "overhead": 0,
+      "provenance": "Original first collection: Small detour",
+      "chapter": "Finding your feet"
+    },
+    {
+      "rows": [
+        "########",
+        "##     #",
+        "#.@ . ##",
+        "# $$ . #",
+        "#      #",
+        "# $ ## #",
+        "# #    #",
+        "########"
+      ],
+      "pushes": 9,
+      "lower_bound": 9,
+      "overhead": 0,
+      "solution": "lddrUdrruulLddrUluRddlldRurrrrddlllUUluRR",
+      "name": "Open floor",
+      "provenance": "Original campaign lab: candidates-walk, candidate 299",
+      "chapter": "Making room"
+    },
+    {
+      "name": "Crossing paths",
+      "rows": [
+        "#######",
+        "#@  ..#",
+        "# $#  #",
+        "#     #",
+        "# $ # #",
+        "#     #",
+        "#######"
+      ],
+      "solution": "ddrUluRRRddlddlUUUluRR",
+      "pushes": 9,
+      "lower_bound": 9,
+      "overhead": 0,
+      "provenance": "Original first collection: Crossing paths",
+      "chapter": "Making room"
+    },
+    {
+      "name": "Switchback",
+      "rows": [
+        "#######",
+        "#  @  #",
+        "#  $$ #",
+        "#  #  #",
+        "# .#  #",
+        "#.    #",
+        "#######"
+      ],
+      "solution": "rDLulDDurrDDrdLLL",
+      "pushes": 9,
+      "lower_bound": 9,
+      "overhead": 0,
+      "provenance": "Original first collection: Switchback",
+      "chapter": "Making room"
+    },
+    {
+      "name": "After hours",
+      "rows": [
+        "########",
+        "#    @ #",
+        "# .  $ #",
+        "# # .  #",
+        "#  $ # #",
+        "# $   .#",
+        "########"
+      ],
+      "solution": "DrdLrddlllUUddrrruuullLddlldRRRR",
+      "pushes": 9,
+      "lower_bound": 9,
+      "overhead": 0,
+      "provenance": "Original first collection: After hours",
+      "chapter": "Making room"
+    },
+    {
+      "name": "Inner garden",
+      "rows": [
+        "########",
+        "#.@    #",
+        "#   #$ #",
+        "# #    #",
+        "# # #$ #",
+        "#.$.   #",
+        "########"
+      ],
+      "solution": "drdrrUruLLLLdrdrrDullddLruurrdrdLL",
+      "pushes": 9,
+      "lower_bound": 9,
+      "overhead": 0,
+      "provenance": "Original first collection: Inner garden",
+      "chapter": "Making room"
+    },
+    {
+      "name": "The arcade",
+      "rows": [
+        "########",
+        "#  .@$ #",
+        "# #    #",
+        "#.  ## #",
+        "#    $ #",
+        "#.   $ #",
+        "########"
+      ],
+      "solution": "drruLLdrrddLLLdlUruLdrrrrdLLLL",
+      "pushes": 11,
+      "lower_bound": 11,
+      "overhead": 0,
+      "provenance": "Original first collection: The arcade",
+      "chapter": "Taking the long way"
+    },
+    {
+      "name": "Interchange",
+      "rows": [
+        "########",
+        "#    ..#",
+        "#     $#",
+        "#      #",
+        "#@$ ## #",
+        "#  #   #",
+        "# $   .#",
+        "########"
+      ],
+      "solution": "urrrrrUdlllllddrUUUluRRRddldldldRRRR",
+      "pushes": 11,
+      "lower_bound": 11,
+      "overhead": 0,
+      "provenance": "Original first collection: Interchange",
+      "chapter": "Taking the long way"
+    },
+    {
+      "rows": [
+        "########",
+        "#      #",
+        "#      #",
+        "# #    #",
+        "#. # # #",
+        "# .*$$ #",
+        "# # @ ##",
+        "########"
+      ],
+      "pushes": 11,
+      "lower_bound": 7,
+      "overhead": 4,
+      "solution": "UUUruLLLulDDurrdrddLruurrddLL",
+      "name": "Passing space",
+      "provenance": "Original campaign lab: candidates-walk, candidate 1325",
+      "chapter": "Taking the long way"
+    },
+    {
+      "name": "Loading dock",
+      "rows": [
+        "########",
+        "#  .   #",
+        "# #    #",
+        "# $    #",
+        "#  @$  #",
+        "#. # $ #",
+        "#.     #",
+        "########"
+      ],
+      "solution": "uLruulldDDrddrruUUUruLdddrDrdLLLL",
+      "pushes": 12,
+      "lower_bound": 12,
+      "overhead": 0,
+      "provenance": "Original first collection: Loading dock",
+      "chapter": "Taking the long way"
+    },
+    {
+      "name": "Final rounds",
+      "rows": [
+        "#########",
+        "#   .   #",
+        "# $#@ $ #",
+        "#       #",
+        "# .# ## #",
+        "#.  $ # #",
+        "# .   $ #",
+        "#########"
+      ],
+      "solution": "ullDurrddrrUruLLddrrdddLLuLLdlluuuurDrrddlLrrrdLL",
+      "pushes": 12,
+      "lower_bound": 12,
+      "overhead": 0,
+      "provenance": "Original first collection: Last delivery",
+      "chapter": "Taking the long way"
+    },
+    {
+      "rows": [
+        "########",
+        "#   .#@#",
+        "# $  $ #",
+        "#  # $.#",
+        "#    $.#",
+        "# #   ##",
+        "#    . #",
+        "########"
+      ],
+      "pushes": 13,
+      "lower_bound": 9,
+      "overhead": 4,
+      "solution": "dLLddlluURurDllluRRdrDRlDRlDldR",
+      "name": "Detour",
+      "provenance": "Original campaign lab: candidates-walk, candidate 11583",
+      "chapter": "Traffic control"
+    },
+    {
+      "name": "The long way",
+      "rows": [
+        "#########",
+        "#.    $@#",
+        "#   . #$#",
+        "# $   # #",
+        "#     # #",
+        "#. $ #  #",
+        "#      .#",
+        "#########"
+      ],
+      "solution": "LLLLLrrrrrDulldddlllUluRRurrrrdDDuuulldddldLLuuuurrrrrdddD",
+      "pushes": 14,
+      "lower_bound": 14,
+      "overhead": 0,
+      "provenance": "Original first collection: The long way",
+      "chapter": "Traffic control"
+    },
+    {
+      "name": "Corner office",
+      "rows": [
+        "#########",
+        "# $    .#",
+        "# #$# # #",
+        "#   #   #",
+        "#   .   #",
+        "#. $ #$ #",
+        "#@.     #",
+        "#########"
+      ],
+      "solution": "uuuuuRRRRRlllDDuurrdddlLulDDurrdLLrdrrrUruLL",
+      "pushes": 15,
+      "lower_bound": 15,
+      "overhead": 0,
+      "provenance": "Original first collection: Corner office",
+      "chapter": "Traffic control"
+    },
+    {
+      "name": "Tight quarters",
+      "rows": [
+        "########",
+        "#    . #",
+        "#.  $  #",
+        "#.  ## #",
+        "# #    #",
+        "# #$$  #",
+        "# #@   #",
+        "########"
+      ],
+      "solution": "rruuruulLullddrUluRRdlddrrddllUUUluurrdLulDrdLrdddrUruLdlUUluurrdLL",
+      "pushes": 16,
+      "lower_bound": 16,
+      "overhead": 0,
+      "provenance": "User-tested original prototype",
+      "chapter": "Traffic control"
+    },
+    {
+      "rows": [
+        "########",
+        "#.  $ ##",
+        "##  #  #",
+        "##   . #",
+        "#@$ #. #",
+        "# #$   #",
+        "# *    #",
+        "########"
+      ],
+      "pushes": 16,
+      "lower_bound": 12,
+      "overhead": 4,
+      "solution": "ddRRUrruuuuLLLddrrrddllUdrruuuulldldRRluurrdDlldddlluuRlddrruUluRRlddrrdLL",
+      "name": "Loading bay",
+      "provenance": "Original campaign lab: candidates-walk, candidate 3396",
+      "chapter": "Traffic control"
+    },
+    {
+      "name": "Switchyard",
+      "rows": [
+        "########",
+        "#+#    #",
+        "#$#  $ #",
+        "#  #  ##",
+        "# $    #",
+        "# #.   #",
+        "#     .#",
+        "########"
+      ],
+      "solution": "DDDRRdrruuluurDDlDurDllddllUUUUddrrrrDLdR",
+      "pushes": 16,
+      "lower_bound": 10,
+      "overhead": 6,
+      "provenance": "User-tested original prototype",
+      "chapter": "Night shift"
+    },
+    {
+      "rows": [
+        "########",
+        "# #  @ #",
+        "# ## $ #",
+        "#   $  #",
+        "#.  $ .#",
+        "#   #$##",
+        "#.  .  #",
+        "########"
+      ],
+      "pushes": 18,
+      "lower_bound": 14,
+      "overhead": 4,
+      "solution": "DrddlLrruullDlDururrdLdLLrruulDllDurrrdLLulldddrrrrUdlllluuurrdLrrRlllDurrrddllLuurDldR",
+      "name": "Cross traffic",
+      "provenance": "Original campaign lab: variations, candidate 2231",
+      "chapter": "Night shift"
+    },
+    {
+      "rows": [
+        "########",
+        "#  #.  #",
+        "#.$ #  #",
+        "#   #  #",
+        "#   $  #",
+        "#.#$ *##",
+        "#   #@ #",
+        "########"
+      ],
+      "pushes": 18,
+      "lower_bound": 10,
+      "overhead": 8,
+      "solution": "UUUUruLdddLLuuLdldRRRdrUruulDDllllddrrUruLLulD",
+      "name": "Temporary parking",
+      "provenance": "Original campaign lab: variations, candidate 1675",
+      "chapter": "Night shift"
+    },
+    {
+      "rows": [
+        "########",
+        "#   .# #",
+        "# @$$  #",
+        "##     #",
+        "##$ #$ #",
+        "## #. .#",
+        "#   .  #",
+        "########"
+      ],
+      "pushes": 19,
+      "lower_bound": 13,
+      "overhead": 6,
+      "solution": "urDldRRUdRDrddlllluUUruulldRurDldRRurDurDllldlddrrrruLdllluuurrrDDrdLuuurD",
+      "name": "Back room",
+      "provenance": "Original campaign lab: variations, candidate 1050",
+      "chapter": "Night shift"
+    },
+    {
+      "rows": [
+        "########",
+        "#  @# ##",
+        "# $  $ #",
+        "# #  ..#",
+        "# $    #",
+        "#  ##  #",
+        "#.$  . #",
+        "########"
+      ],
+      "pushes": 20,
+      "lower_bound": 12,
+      "overhead": 8,
+      "solution": "lldRurDrdrruLddddllLuluRRRllluurrDrruLdrrdddlllluuluuurrDllddrRlluurrrdrDDuuullllddrrRuulDullddrRurrrddlUruulldldRRdrU",
+      "name": "Shift change",
+      "provenance": "Original campaign lab: variations, candidate 2933",
+      "chapter": "Night shift"
+    },
+    {
+      "rows": [
+        "########",
+        "#      #",
+        "#.##$  #",
+        "#.     #",
+        "#  $$ ##",
+        "# #* ###",
+        "###  @.#",
+        "########"
+      ],
+      "pushes": 20,
+      "lower_bound": 12,
+      "overhead": 8,
+      "solution": "luUruuullllddrrRdLrddlUruullluurrrDDDDlUruLruullldddRluuurrrddlLdlUrrrurrdLLLLrrddldRuuulDrddR",
+      "name": "Narrow escape",
+      "provenance": "Original campaign lab: variations, candidate 856",
+      "chapter": "Clocking out"
+    },
+    {
+      "rows": [
+        "########",
+        "# @#   #",
+        "#.$#   #",
+        "#  #   #",
+        "#$.$  .#",
+        "# ## $ #",
+        "# .    #",
+        "########"
+      ],
+      "pushes": 21,
+      "lower_bound": 11,
+      "overhead": 10,
+      "solution": "DldDrRRurrdLrddlluUllluurDldRRRRuulDrdLLrddlllUUUdddrrruurDrdLLL",
+      "name": "Second thoughts",
+      "provenance": "Original campaign lab: variations, candidate 2547",
+      "chapter": "Clocking out"
+    },
+    {
+      "rows": [
+        "########",
+        "##  @ .#",
+        "# $#$# #",
+        "#. $.###",
+        "##$#.  #",
+        "#      #",
+        "#      #",
+        "########"
+      ],
+      "pushes": 22,
+      "lower_bound": 10,
+      "overhead": 12,
+      "solution": "DDLLDurruullDDrrDrddlllluRdrrUUUUdlluurRRldddddlluRdrruulullDurrdrddlllluRdrrUUddlluRdrU",
+      "name": "Roundabout",
+      "provenance": "Original campaign lab: variations, candidate 2317",
+      "chapter": "Clocking out"
+    },
+    {
+      "rows": [
+        "########",
+        "#.  ## #",
+        "#.# $  #",
+        "#   $  #",
+        "# # .  #",
+        "#  $####",
+        "#    $+#",
+        "########"
+      ],
+      "pushes": 23,
+      "lower_bound": 13,
+      "overhead": 10,
+      "solution": "LLLUlluurruRDlllddrrUdlluuuurrdrdrruLdlLLruulldDrrrruLdllluurrDrdLddllUUUdddrruuLrddlluUdddRRRR",
+      "name": "Closing time",
+      "provenance": "Original campaign lab: variations, candidate 729",
+      "chapter": "Clocking out"
+    },
+    {
+      "rows": [
+        "########",
+        "#   ## #",
+        "#    $ #",
+        "# $ #..#",
+        "#  #   #",
+        "# $$   #",
+        "# . # +#",
+        "########"
+      ],
+      "pushes": 26,
+      "lower_bound": 14,
+      "overhead": 12,
+      "solution": "uuuuLLLulldRlddrDuluurDlddrRRuruulLdlDuluurDDlddRRlluuurrrrddrddlUUruullldllddrrRllluurDldRRluuurrrrddddlUruuullldlddrRRllluuurrrrddDlluRdrU",
+      "name": "Last delivery",
+      "provenance": "Original campaign lab: variations, candidate 2872",
+      "chapter": "Clocking out"
+    }
+  ]
+}

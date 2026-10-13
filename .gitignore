@@ -1,0 +1,8 @@
+/target/
+/shared/
+*.log
+
+/dist/
+
+__pycache__/
+*.pyc

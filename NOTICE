@@ -1,0 +1,43 @@
+Sokobanchy
+Copyright (C) 2026 Renan and contributors
+SPDX-License-Identifier: GPL-3.0-or-later
+
+This program is distributed under the GNU General Public License,
+version 3 or (at your option) any later version. See LICENSE.
+
+Design and feature inspiration:
+Sokoban YASC — Yet Another Sokoban Clone
+Copyright (C) 2000–2026 Brian Damgaard
+https://sourceforge.net/projects/sokobanyasc/
+
+The project uses independently written Rust code, an original curated campaign,
+and original agent/library artwork. The text logo was supplied by the project
+owner, Renan. The app author is Renan.
+
+Eight separately credited puzzle collections are included from the supplied
+Sokoban YASC distribution under the permissions in their original files:
+Skinner — David W. Skinner (sasquatch98930@yahoo.com).
+Crazy Monk — Jean-Pierre Martel and Matthias Meger, Copyright (c) 2008.
+GRIGoRusha — Evgeny Grigoriev, with Den Gerasimov and Dries De Clercq.
+Holland — David Holland, with an entry credited to Aymeric du Peloux.
+Haywood and SokHard — Lee J Haywood.
+Sladkey — Rick Sladkey, Copyright (c) 2009.
+YASGen — Brian Damgaard / YASGen, Copyright (c) 2003.
+
+Their exact source files and full notices are in assets/collections/ (also
+THIRD_PARTY/collections/ in binary releases). Their authors retain copyright;
+these collections are not relicensed under the application license. Consult
+assets/collections/README.md for the inclusion review and collection-specific
+terms. Copyright, permissions and author notes are also available in About.
+
+The shared/ reference directory itself is never distributed. No YASC program
+code, third-party artwork, or sounds are bundled.
+
+Third-party Rust crates are listed with exact versions in Cargo.lock;
+their licenses apply to those crates independently.
+
+The goal symbol is a vector transcription of Omarchy's icon.png, recolored
+with the active theme. Copyright (c) David Heinemeier Hansson.
+Source: https://github.com/omacom/omarchy/blob/master/icon.png
+Omarchy license: MIT; full notice in assets/OMARCHY-LICENSE (also included
+as THIRD_PARTY/OMARCHY-LICENSE in binary releases).

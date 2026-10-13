@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "renan.sokobanchy",
+  "name": "Sokobanchy",
+  "version": "0.1.0",
+  "author": "Renan",
+  "description": "A native Sokoban game with a 35-puzzle campaign, eight community collections, keyboard controls, and live Omarchy themes.",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "Widget.qml" },
+  "barWidget": {
+    "displayName": "Sokobanchy",
+    "description": "Launch Sokobanchy. The first launch builds the Rust game in your cache.",
+    "category": "Games",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}

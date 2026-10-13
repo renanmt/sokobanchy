@@ -1,0 +1,5 @@
+# Preserve distributed collection bytes and intentional puzzle/logo whitespace.
+assets/collections/** -text -whitespace
+assets/logo.txt -text -whitespace
+*.xsb -text -whitespace
+LICENSE -text -whitespace
