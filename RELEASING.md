@@ -60,7 +60,7 @@ Follow the [official publishing guide](https://plugins.omarchy.org/publish.html)
 - **Category:** Other
 - **Tags:** Games, Bar, Launcher
 - **Preview:** root `preview.png`
-- **Summary:** A quiet game of push & possibility. A native Sokoban game with a 35-puzzle campaign, eight credited community collections, keyboard controls, and live Omarchy colors.
+- **Summary:** A native Sokoban game with a 35-puzzle campaign, eight credited community collections, keyboard controls, and live Omarchy colors.
 
 The marketplace form has no Games category; use Other with the Games, Bar, and Launcher tags. The widget's own bar category remains Games.
 

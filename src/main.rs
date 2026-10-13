@@ -32,7 +32,7 @@ fn options() -> Result<Option<Options>, String> {
         match arg.as_str() {
             "--help" | "-h" => {
                 println!(
-                    "Sokobanchy — a quiet Sokoban game for Omarchy\n\nUsage: sokobanchy [--levels FILE] [--theme COLORS.toml] [--fresh]\n\n  --levels FILE   Open an XSB or plain-text SOK collection\n  --theme FILE    Read and live-reload a specific Omarchy palette\n  --fresh         Start with temporary progress; do not read or write saves\n  --version       Print version\n\nMove: arrows / WASD / HJKL   Undo: Ctrl+Z / U / Z   Redo: Ctrl+Shift+Z / Ctrl+Y / Y\nRestart: R, then Y/Enter (N/Escape cancels)   Reset all: Ctrl+Shift+R, then Y (N/Escape cancels)\nPuzzles: Tab / [ / ]   Next solved level: Enter\nSidebar: arrows / J K, Home / End, PgUp / PgDn, Enter to play\nOpen: O / Ctrl+O   Help: F1   About: F2   Back: Escape"
+                    "Sokobanchy — a Sokoban game for Omarchy\n\nUsage: sokobanchy [--levels FILE] [--theme COLORS.toml] [--fresh]\n\n  --levels FILE   Open an XSB or plain-text SOK collection\n  --theme FILE    Read and live-reload a specific Omarchy palette\n  --fresh         Start with temporary progress; do not read or write saves\n  --version       Print version\n\nMove: arrows / WASD / HJKL   Undo: Ctrl+Z / U / Z   Redo: Ctrl+Shift+Z / Ctrl+Y / Y\nRestart: R, then Y/Enter (N/Escape cancels)   Reset all: Ctrl+Shift+R, then Y (N/Escape cancels)\nPuzzles: Tab / [ / ]   Next solved level: Enter\nSidebar: arrows / J K, Home / End, PgUp / PgDn, Enter to play\nOpen: O / Ctrl+O   Help: F1   About: F2   Back: Escape"
                 );
                 return Ok(None);
             }
@@ -592,7 +592,7 @@ impl App {
                     RichText::new(format!("Created by {}", env!("CARGO_PKG_AUTHORS"))).strong(),
                 );
                 ui.label("Copyright © 2026 Renan and contributors.");
-                ui.label("A quiet game of push & possibility. Built with Rust and egui.");
+                ui.label("Built with Rust and egui.");
                 if ui.button("Reset all progress…").clicked() {
                     self.open_reset_all();
                 }

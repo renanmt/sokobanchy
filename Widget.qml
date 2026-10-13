@@ -14,7 +14,7 @@ BarWidget {
         anchors.fill: parent
         bar: root.bar
         text: "\uf466"
-        tooltipText: "Sokobanchy — a quiet game of push & possibility"
+        tooltipText: "Sokobanchy — Sokoban for Omarchy"
         onPressed: Quickshell.execDetached([
             "bash",
             decodeURIComponent(Qt.resolvedUrl("scripts/launch.sh").toString().replace(/^file:\/\//, ""))

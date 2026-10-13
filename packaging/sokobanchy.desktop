@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Sokobanchy
-Comment=A quiet game of push and possibility
+Comment=Sokoban puzzle game
 Exec=sokobanchy
 Icon=sokobanchy
 Terminal=false

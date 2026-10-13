@@ -1,6 +1,6 @@
 # Sokobanchy
 
-A quiet game of push & possibility. A native Rust Sokoban game for Linux by **[Renan](https://github.com/renanmt)**, made to feel at home on Omarchy.
+A native Rust Sokoban game for Linux by **[Renan](https://github.com/renanmt)**, made to feel at home on Omarchy.
 
 Guide an AI agent. Push code libraries into placeholders to create Omarchy logos. Take your time. Undo anything.
 
