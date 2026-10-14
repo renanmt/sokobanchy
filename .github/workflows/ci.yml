@@ -25,7 +25,9 @@ jobs:
     container: archlinux:base
     steps:
       - name: Arch runtime and test tooling
-        run: pacman -Syu --noconfirm python
+        run: pacman -Syu --noconfirm python python-gobject desktop-file-utils
       - uses: actions/checkout@v4
       - name: Launch without build or download tools
         run: python3 scripts/test-launch.py
+      - name: Application registration and removal
+        run: python3 scripts/test-desktop-entry.py

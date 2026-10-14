@@ -1,6 +1,6 @@
 # Project instructions
 
-Sokobanchy is a native Rust/egui game plus an Omarchy Quattro bar launcher.
+Sokobanchy is a native Rust/egui game with Omarchy Quattro application-launcher integration.
 
 ## Reference-file safety
 

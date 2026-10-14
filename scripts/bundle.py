@@ -22,6 +22,7 @@ def digest(path):
 def source_files():
     # Rust sources and embedded data, including the main program's license text.
     paths = {ROOT / name for name in ('Cargo.toml', 'Cargo.lock', 'LICENSE')}
+    paths.add(ROOT / 'assets/sokobanchy.png')
     paths.update((ROOT / 'src').glob('*.rs'))
     paths.update(p for p in (ROOT / 'assets').rglob('*')
                  if p.is_file() and (p.suffix in ('.xsb', '.txt') or p.name == 'OMARCHY-LICENSE'))

@@ -28,12 +28,13 @@
     "assets/dependency-licenses/profiling-MIT.txt": "3968f8254b87072dbfab4bfb1c696d8939bef95db470359554993401e79585dc",
     "assets/levels.xsb": "0f46e48021371cf9b15d1224a690bd86669e9f32133276f6818a2417d82f0189",
     "assets/logo.txt": "895839ff1510e862ec72f7356e50abef81e6c7934877198a827a79c1fc5e9dc3",
+    "assets/sokobanchy.png": "8fbbdcf1e768a5c40216e54191874c6777cc0a3fc80c3ee21b6c8711a6e4ddbb",
     "src/art.rs": "efe3563082890b4d8c4bda0e6c8b4d699a92910efe1eeb5b3933e5b686dfe4b8",
     "src/campaign.rs": "a689541ceb2035fbce09e3fee2f5dcf50a5d903fe94bb07ec3e96819872a460b",
     "src/collections.rs": "f513d327cf2efe9a412f65c9cd948046cc9b230228cead48a536ac6ab1bebfc3",
     "src/game.rs": "f566facbc0dc5e996ffb73bf150f9d705ae7bb694611f95e0f0c6725445e3f50",
     "src/lib.rs": "0463d593fa8a65b73dee4a15d326ea4361e51e576970714cff25eb8bd4a0e9ad",
-    "src/main.rs": "ef04bdab15fd9bd640c76f891a332d118e75520b9e403628e1ff872b7bf60cdb",
+    "src/main.rs": "6f1a912335370f3568885464457539e4a9fb74bd90305c82056b62423cee2d8f",
     "src/progress.rs": "4d12ff45b41d60af3c48c34b9d24a28356b39196996c285f1c33874c5db965f3",
     "src/screenshots.rs": "5d8a573ce3461ff3f5129ba97a8cab129f59835314c853b4498e3356b80bba6a",
     "src/theme.rs": "5b0ce482a12387e74fc7e8611a12f04a719bbf3b50f8adca6900a7e472483603"
@@ -311,6 +312,6 @@
     "THIRD_PARTY/zerovec-0.11.8/LICENSE": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2",
     "THIRD_PARTY/zerovec-derive-0.11.6/LICENSE": "f367c1b8e1aa262435251e442901da4607b4650e0e63a026f5044473ecfb90f2",
     "THIRD_PARTY/zmij-1.0.23/LICENSE-MIT": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
-    "sokobanchy": "73d278bd431c476cd377e89f38d5489c84fcab29db7f9cb7798bb8cd836f36f5"
+    "sokobanchy": "b4ec17e0fa7d7efd504acee9ea08c705cdd608e9800910561815a33cbe1a3254"
   }
 }

@@ -84,6 +84,10 @@ fn main() -> eframe::Result {
             viewport: egui::ViewportBuilder::default()
                 .with_inner_size([880.0, 680.0])
                 .with_min_inner_size([600.0, 460.0])
+                .with_icon(
+                    eframe::icon_data::from_png_bytes(include_bytes!("../assets/sokobanchy.png"))
+                        .expect("bundled application icon must be valid PNG"),
+                )
                 .with_app_id("sokobanchy"),
             renderer: eframe::Renderer::Glow,
             ..Default::default()

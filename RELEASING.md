@@ -20,6 +20,7 @@ bash -n scripts/*.sh packaging/*.sh
 ./scripts/package.sh
 python3 scripts/bundle.py check
 python3 scripts/test-launch.py
+python3 scripts/test-desktop-entry.py
 (cd dist && sha256sum -c SHA256SUMS)
 ```
 
@@ -27,7 +28,7 @@ Review `dist/sokobanchy-0.1.0-linux-*.tar.gz` and `dist/sokobanchy-0.1.0-source.
 
 The README and marketplace preview use captures of the actual egui renderer. Refresh them using the opt-in capture command in README. Never change the desktop theme for a capture or include personal desktop content.
 
-Before submitting, smoke-test the bar launcher on Omarchy Quattro without Rust or Cargo on PATH, plus theme reload, keyboard controls, and removal. Use `--fresh` for gameplay tests. Test persistent reset using a temporary `XDG_STATE_HOME`, never a real player's save. The offscreen captures and automated tests do not replace a real compositor/bar test.
+Before submitting, smoke-test the application launcher on Omarchy Quattro without Rust or Cargo on PATH, plus theme reload, keyboard controls, and removal. Use `--fresh` for gameplay tests. Test persistent reset using a temporary `XDG_STATE_HOME`, never a real player's save. The offscreen captures and automated tests do not replace a real compositor/application-launcher test.
 
 ## Bundled executable
 
@@ -66,14 +67,14 @@ Follow the [official publishing guide](https://plugins.omarchy.org/publish.html)
 - **Repository:** https://github.com/renanmt/sokobanchy
 - **Author:** Renan
 - **Category:** Other
-- **Tags:** Games, Bar, Launcher
+- **Tags:** Games, Launcher
 - **Preview:** root `preview.png`
 - **Summary:** A native Sokoban game with a 35-puzzle campaign, eight credited community collections, keyboard controls, and live Omarchy colors.
 
-The marketplace form has no Games category; use Other with the Games, Bar, and Launcher tags. The widget's own bar category remains Games.
+The marketplace form has no Games category; use Other with the Games and Launcher tags. The plugin is a headless service that registers the application; it does not add a bar widget.
 
 **Description:** Guide an AI agent and push code libraries onto placeholders. Undo and redo freely, browse puzzles beside the board, open your own collections, and resume saved games with best scores. Help, About, credits, and reset-all confirmation stay in the main body. Single-puzzle restart uses a centered floating Yes/No dialog with Y/N shortcuts. A persistent bottom bar shows keyboard shortcuts.
 
-**Installation/runtime notes:** Requires Omarchy Quattro on x86_64 with its standard OpenGL-capable Wayland/X11 desktop. Install with `omarchy plugin add https://github.com/renanmt/sokobanchy --enable`, then click the bar icon. The native executable, source, build hashes, dependency licenses, and font notices are in the repository. No Rust installation, compilation, package installation, executable download, privileged command, or build-cache write occurs on activation or launch. Progress is under `${XDG_STATE_HOME:-~/.local/state}/sokobanchy`. Theme palettes are read only. Removing the plugin preserves progress; the optional standalone installer has its own uninstaller. The bundled ELF requires maintainer review under the marketplace's binary capability policy.
+**Installation/runtime notes:** Requires Omarchy Quattro on x86_64 with its standard OpenGL-capable Wayland/X11 desktop. Install with `omarchy plugin add https://github.com/renanmt/sokobanchy --enable`, then search for Sokobanchy in the application launcher and press Enter. The native executable, source, build hashes, dependency licenses, and font notices are in the repository. No Rust installation, compilation, package installation, executable download, privileged command, or build-cache write occurs on activation or launch. Progress is under `${XDG_STATE_HOME:-~/.local/state}/sokobanchy`. Theme palettes are read only. The one-shot Python 3 helper registers the desktop entry on enable and removes its owned entry on disable/removal. No helper remains running. Removing the plugin preserves progress; the optional standalone installer has its own uninstaller. The bundled ELF requires maintainer review under the marketplace's binary capability policy.
 
 **License:** GPL-3.0-or-later for the application. Omarchy icon geometry and community collections retain the notices and permissions shipped with the project. Collection provenance and inclusion decisions are documented in `assets/collections/README.md`.

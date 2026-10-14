@@ -17,7 +17,7 @@ Guide an AI agent. Push code libraries into placeholders to create Omarchy logos
 - An **About** page with Renan’s author credit, collection creators, permissions, and author notes.
 - About, Help, Open, and reset-all confirmation occupy the main body, with persistent navigation and **Back to puzzle / Escape**. **Puzzles** opens a sidebar beside the board. Single-puzzle restart is the exception: a centered Yes/No dialog floats over the visible board.
 - A persistent bottom bar shows keyboard shortcuts. **F1** opens Help and stays open when the key repeats; **Escape** returns to the puzzle.
-- An Omarchy Quattro bar plugin that launches the same native game.
+- Appears as **Sokobanchy** in the Omarchy application launcher, with a smiling agent icon.
 
 ## Install on Omarchy Quattro
 
@@ -25,7 +25,7 @@ Guide an AI agent. Push code libraries into placeholders to create Omarchy logos
 omarchy plugin add https://github.com/renanmt/sokobanchy --enable
 ```
 
-Click the crate in the bar to play. The plugin includes the native game for **Omarchy x86_64**. No Rust installation, build step, or first-launch download is needed. Marketplace submission is being prepared; the app is not yet listed.
+Open the application launcher, search for **Sokobanchy**, and press Enter. The plugin includes the native game for **Omarchy x86_64**. No Rust installation, build step, or first-launch download is needed. Marketplace submission is being prepared; the app is not yet listed.
 
 ## Screenshots
 
@@ -56,13 +56,15 @@ omarchy pkg add rust base-devel
 cargo run --release --locked
 ```
 
-The ordinary desktop runtime libraries are already present on Omarchy. On Debian/Ubuntu, a development machine also needs `build-essential pkg-config libxkbcommon-dev libwayland-dev libegl1-mesa-dev libgl1-mesa-dev`.
+The ordinary desktop runtime libraries and Python 3 are already present on Omarchy.
 
 ```sh
 cargo run --release --locked -- --levels /path/to/collection.xsb
 cargo run --release --locked -- --theme /path/to/colors.toml
 cargo run --release --locked -- --fresh
 ```
+
+The window icon is generated from the application SVG with `rsvg-convert -w 128 -h 128 -o assets/sokobanchy.png assets/sokobanchy.svg`.
 
 `--fresh` is a temporary session: it neither reads nor writes progress. Use `--help` for all options.
 
@@ -82,20 +84,22 @@ Uninstall removes only those three installed files. Saved progress and build cac
 
 ## Omarchy plugin
 
-The repository root is a Quattro plugin (`renan.sokobanchy`). The native game lives alongside its small QML bar launcher. Validate it with:
+The repository root is a Quattro plugin (`renan.sokobanchy`). Its headless QML service registers a normal application entry; it creates no bar widget or game window. Validate it with:
 
 ```sh
 omarchy plugin validate .
 ```
 
-The crate icon appears in the right bar section and opens `bin/sokobanchy` directly. The executable ships in the same Git checkout as its Rust source, build metadata, and dependency notices. `omarchy plugin update renan.sokobanchy` updates the launcher and executable together.
+The application entry opens `bin/sokobanchy` directly and uses the smiling agent icon. The executable ships in the same Git checkout as its Rust source, build metadata, and dependency notices. `omarchy plugin update renan.sokobanchy` updates the launcher and executable together.
 
-The launcher does not compile, download code, install packages, request elevated privileges, or write build caches. It uses Omarchy's existing desktop runtime libraries. This release supports x86_64; the launcher reports unsupported architectures explicitly.
+Enabling the plugin writes `sokobanchy.desktop` under `${XDG_DATA_HOME:-~/.local/share}/applications`. Disabling or removing it cleans up the entry it owns; an existing standalone or user-created entry is preserved. The one-shot registration helper uses Omarchy’s Python 3 and leaves no background process. It does not compile, download code, install packages, request elevated privileges, or write build caches. It uses Omarchy's existing desktop runtime libraries. This release supports Omarchy x86_64.
 
 ```sh
 omarchy plugin disable renan.sokobanchy
 omarchy plugin remove renan.sokobanchy
 ```
+
+If you tested the earlier bar-widget draft, remove that draft and reinstall with the command above.
 
 The standalone installation and the plugin are independent. Both use the same progress file. Avoid playing the same collection in multiple windows at once: the last saved window wins.
 
