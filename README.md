@@ -22,11 +22,10 @@ Guide an AI agent. Push code libraries into placeholders to create Omarchy logos
 ## Install on Omarchy Quattro
 
 ```sh
-omarchy pkg add rust base-devel
 omarchy plugin add https://github.com/renanmt/sokobanchy --enable
 ```
 
-Click the crate in the bar to start playing. The first launch compiles the game and needs internet access for Rust dependencies. Later launches reuse the build cache. Marketplace submission is being prepared; the app is not yet listed.
+Click the crate in the bar to play. The plugin includes the native game for **Omarchy x86_64**. No Rust installation, build step, or first-launch download is needed. Marketplace submission is being prepared; the app is not yet listed.
 
 ## Screenshots
 
@@ -48,7 +47,7 @@ Credits and reset-all controls live inside the app:
 
 These are captures of the actual egui interface in a fresh session, using the built-in Tokyo Night palette.
 
-## Run from source
+## Development: run from source
 
 Rust 1.88 or newer, a C toolchain, and a Wayland or X11 desktop with OpenGL are required. On Omarchy, install build prerequisites if needed:
 
@@ -67,13 +66,13 @@ cargo run --release --locked -- --fresh
 
 `--fresh` is a temporary session: it neither reads nor writes progress. Use `--help` for all options.
 
-## Install standalone
+## Optional standalone installation
 
 ```sh
 ./scripts/install.sh
 ```
 
-This builds the game and installs the binary to `~/.local/bin`, plus an application-menu entry and SVG icon under `${XDG_DATA_HOME:-~/.local/share}`. Start **Sokobanchy** from the application launcher or run `~/.local/bin/sokobanchy`. `PREFIX` overrides the binary prefix; no root access is needed.
+This installs the bundled game binary to `~/.local/bin`, plus an application-menu entry and SVG icon under `${XDG_DATA_HOME:-~/.local/share}`. Rust is not needed. Start **Sokobanchy** from the application launcher or run `~/.local/bin/sokobanchy`. `PREFIX` overrides the binary prefix; no root access is needed.
 
 ```sh
 ./scripts/uninstall.sh
@@ -89,9 +88,9 @@ The repository root is a Quattro plugin (`renan.sokobanchy`). The native game li
 omarchy plugin validate .
 ```
 
-The crate icon appears in the right bar section. Its first click builds the native game with Cargo and opens it. Install `rust` and `base-devel` beforehand. The first build needs internet access to download the locked Rust dependencies and may take a few minutes. Later clicks use Cargo's incremental check, including after plugin updates.
+The crate icon appears in the right bar section and opens `bin/sokobanchy` directly. The executable ships in the same Git checkout as its Rust source, build metadata, and dependency notices. `omarchy plugin update renan.sokobanchy` updates the launcher and executable together.
 
-The plugin runs no build on activation. All generated files go to `${XDG_CACHE_HOME:-~/.cache}/sokobanchy`, outside the watched plugin checkout. A desktop notification reports first-build or build errors; diagnostics are in `build.log` in that cache directory. Multiple clicks during a build are serialized. The launcher does not download executables or request elevated privileges.
+The launcher does not compile, download code, install packages, request elevated privileges, or write build caches. It uses Omarchy's existing desktop runtime libraries. This release supports x86_64; the launcher reports unsupported architectures explicitly.
 
 ```sh
 omarchy plugin disable renan.sokobanchy
@@ -176,9 +175,11 @@ cargo test --locked
 omarchy plugin validate .
 python3 scripts/check-manifest.py
 ./scripts/package.sh
+python3 scripts/bundle.py check
+python3 scripts/test-launch.py
 ```
 
-`package.sh` builds a native release and creates a Linux architecture-specific archive under `dist/`. Build on the oldest Linux distribution you intend to support; binaries link to system libraries. The source build is the supported Omarchy marketplace installation path.
+`package.sh` builds on Omarchy, refreshes the tracked executable and notices under `bin/`, records source and binary hashes in `bin/BUILD.json`, and creates a Linux architecture-specific archive under `dist/`. Build and test the bundled executable on current Omarchy x86_64. The marketplace installs the bundled executable with the standard plugin command. Source builds are for development.
 
 Tests replay every campaign solution, undo and redo its full history, verify the union of both original collections and restored progress, check campaign order and board identities, validate input and collision rules, round-trip progress, and check current/legacy themes. Headless UI checks cover board proportions at 600×460 through 880×680 and all main-body pages at both minimum and wide window sizes, including navigation and keyboard isolation. The original collections are retained only as regression fixtures under `tests/fixtures/`; `scripts/generate-first-collection.py` reproduces the earlier collection fixture. Community collection tests replay a supplied solution for every entry and verify that external source imports retain identical board IDs. `python3 scripts/generate-collections.py` rebuilds the embedded collections and credits from their reviewed source copies.
 
@@ -199,6 +200,6 @@ Inspired by **Sokoban YASC — Yet Another Sokoban Clone**, by Brian Damgaard, w
 
 The completed-library mark reproduces the geometry of [Omarchy’s icon](https://github.com/omacom/omarchy/blob/master/icon.png), recolored with the active palette. Omarchy is copyright David Heinemeier Hansson; its MIT notice is included in [assets/OMARCHY-LICENSE](assets/OMARCHY-LICENSE).
 
-GPL-3.0-or-later; see [LICENSE](LICENSE). Rust dependencies retain their respective licenses. See [NOTICE](NOTICE).
+GPL-3.0-or-later; see [LICENSE](LICENSE). Rust dependencies retain their respective licenses; bundled dependency and font notices are in [bin/THIRD_PARTY](bin/THIRD_PARTY). See [NOTICE](NOTICE).
 
 The `shared/` directory is reference material and excluded from Git, Cargo packages, and release archives. Its Delphi `.dfm` files can be incorrectly detected as JPEG XL on Linux. Preserve the originals; inspect as data/text only. Never thumbnail or image-decode `.dfm` files, and never open this reference directory in a graphical file browser.

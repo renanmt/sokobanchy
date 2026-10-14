@@ -34,7 +34,8 @@ The shared/ reference directory itself is never distributed. No YASC program
 code, third-party artwork, or sounds are bundled.
 
 Third-party Rust crates are listed with exact versions in Cargo.lock;
-their licenses apply to those crates independently.
+their licenses apply to those crates independently. The bundled executable's
+dependency and font notices are in bin/THIRD_PARTY/.
 
 The goal symbol is a vector transcription of Omarchy's icon.png, recolored
 with the active theme. Copyright (c) David Heinemeier Hansson.

@@ -18,3 +18,14 @@ jobs:
         run: bash -n scripts/*.sh packaging/*.sh
       - name: Manifest contract
         run: python3 scripts/check-manifest.py
+      - name: Bundled executable and source identity
+        run: python3 scripts/bundle.py check
+  launcher:
+    runs-on: ubuntu-latest
+    container: archlinux:base
+    steps:
+      - name: Arch runtime and test tooling
+        run: pacman -Syu --noconfirm python
+      - uses: actions/checkout@v4
+      - name: Launch without build or download tools
+        run: python3 scripts/test-launch.py

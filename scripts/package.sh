@@ -66,9 +66,10 @@ for package in metadata['packages']:
 shutil.copyfile('assets/dependency-licenses/README.md', dest / 'LICENSE-SOURCES.md')
 (dest / 'INDEX.txt').write_text('\n'.join(sorted(index)) + '\n')
 PY
+python3 scripts/bundle.py prepare --binary "$release_dir/sokobanchy" --licenses "$release_dir/THIRD_PARTY"
 # Include the exact application source with every binary archive. Use an allowlist;
 # never traverse shared/ or hand source-reference files to desktop thumbnailers.
-tar --exclude='__pycache__' --exclude='*.pyc' -czf "$release_dir/source.tar.gz" Cargo.toml Cargo.lock src assets tests scripts examples packaging Widget.qml manifest.json README.md RELEASING.md CHANGELOG.md LICENSE NOTICE AGENTS.md preview.png .github .gitignore .gitattributes
+tar --exclude='__pycache__' --exclude='*.pyc' -czf "$release_dir/source.tar.gz" Cargo.toml Cargo.lock src assets bin tests scripts examples packaging Widget.qml manifest.json README.md RELEASING.md CHANGELOG.md LICENSE NOTICE AGENTS.md preview.png .github .gitignore .gitattributes
 cp -- "$release_dir/source.tar.gz" "dist/sokobanchy-$version-source.tar.gz"
 tar -C "$staging" -czf "dist/$archive_name.tar.gz" "$archive_name"
 (cd dist && sha256sum "$archive_name.tar.gz" "sokobanchy-$version-source.tar.gz") > dist/SHA256SUMS

@@ -4,6 +4,8 @@
 
 Initial public release preparation.
 
+- One-command Omarchy installation: the native x86_64 game and dependency notices ship in the plugin. No Rust installation or first-launch build/download is required.
+
 - Native Rust/egui Sokoban with live Omarchy theme colors and a Quattro bar launcher.
 - **The night shift**: 35 unique original puzzles in seven chapters, ordered by verified minimum pushes.
 - Eight credited community collections containing 1,984 entries; support for opening UTF-8 and Windows-1252 collection files.

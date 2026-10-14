@@ -9,7 +9,7 @@
   "entryPoints": { "barWidget": "Widget.qml" },
   "barWidget": {
     "displayName": "Sokobanchy",
-    "description": "Launch Sokobanchy. The first launch builds the Rust game in your cache.",
+    "description": "Launch the bundled Sokobanchy game. No additional setup required.",
     "category": "Games",
     "allowMultiple": false,
     "defaultSection": "right"

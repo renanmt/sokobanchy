@@ -3,3 +3,5 @@ assets/collections/** -text -whitespace
 assets/logo.txt -text -whitespace
 *.xsb -text -whitespace
 LICENSE -text -whitespace
+bin/sokobanchy binary
+bin/THIRD_PARTY/** -text -whitespace

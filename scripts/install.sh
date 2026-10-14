@@ -3,9 +3,8 @@ set -euo pipefail
 project_dir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)
 install_prefix="${PREFIX:-$HOME/.local}"
 data_dir="${XDG_DATA_HOME:-$HOME/.local/share}"
-cargo build --release --locked --manifest-path "$project_dir/Cargo.toml"
-build_dir="${CARGO_TARGET_DIR:-$project_dir/target}"
-install -Dm755 "$build_dir/release/sokobanchy" "$install_prefix/bin/sokobanchy"
+"$project_dir/scripts/launch.sh" --version >/dev/null
+install -Dm755 "$project_dir/bin/sokobanchy" "$install_prefix/bin/sokobanchy"
 install -Dm644 "$project_dir/assets/sokobanchy.svg" "$data_dir/icons/hicolor/scalable/apps/sokobanchy.svg"
 # An absolute quoted Exec works even when ~/.local/bin is not on the desktop PATH.
 python3 - "$project_dir/packaging/sokobanchy.desktop" "$data_dir/applications/sokobanchy.desktop" "$install_prefix/bin/sokobanchy" <<'PY'
